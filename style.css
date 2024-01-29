@@ -114,3 +114,10 @@ input {
         margin-right: 10px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .search-result {
+      max-width: 100%; /* Set the maximum width to 100% for small screens */
+    }
+  }
+  
