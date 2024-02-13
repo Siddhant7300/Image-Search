@@ -1,4 +1,3 @@
-const accessKey = "D91T0Ja8QpPPqYpkwtkbkouXq0hngTWdx7hRN_yuqFI";
 const formE1 = document.querySelector("form");
 const inputE1 = document.getElementById("search-input");
 const searchResults = document.querySelector(".search-results");
